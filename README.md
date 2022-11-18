@@ -4,3 +4,5 @@ Create a program that mimic trades that occur in a stock market using a trade sc
 
 I incoroprate the use of locks, semaphores, and multi-threaded programming into my code to allow for trades to occur simultaneously.
 Other sub-topics that are covered include Java classes, File I/O, Sorting, JSON Parsing, and CSV Parsing.
+
+All information in the input files can be determined/changed by the user, just make sure it stays in the same directory!
